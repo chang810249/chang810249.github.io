@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>SITCON18</title>
+      <link>https://chang810249.github.io/talk/sitcon18/</link>
+      <pubDate>Wed, 18 Jul 2018 23:24:47 +0800</pubDate>
+      
+      <guid>https://chang810249.github.io/talk/sitcon18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Face Recognition</title>
       <link>https://chang810249.github.io/project/face_recognition/</link>
       <pubDate>Wed, 18 Jul 2018 15:37:10 +0800</pubDate>
